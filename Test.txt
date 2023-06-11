@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 i am master
 master
+=======
+I am Selenium
+selenium
+>>>>>>> selenium
